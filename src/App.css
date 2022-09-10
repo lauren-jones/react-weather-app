@@ -29,6 +29,10 @@
   height: 50px;
 }
 
+.App .btn:hover {
+  background: var(--primary-color);
+}
+
 .App .form-control {
   background: var(--background-color);
   border: none;
