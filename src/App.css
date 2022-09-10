@@ -30,7 +30,7 @@
 }
 
 .App .form-control {
-  background: #f9f7fe;
+  background: var(--background-color);
   border: none;
   padding: 15px 20px;
   display: inline-block;
@@ -85,4 +85,24 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.App .weather-info {
+  padding: 30px 0;
+  border-bottom: 1px solid var(--background-color);
+}
+
+.App .Footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 30px;
+}
+
+.App a {
+  color: var(--bright-pink);
+  text-decoration: none;
+}
+
+.App a:hover {
+  color: var(--soft-pink);
 }
