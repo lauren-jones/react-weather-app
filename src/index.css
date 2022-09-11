@@ -10,5 +10,5 @@
 
 body {
   background: var(--background-color);
-  padding: 60px;
+  padding: 60px 5px;
 }
