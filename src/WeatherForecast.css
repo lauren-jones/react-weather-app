@@ -1,0 +1,26 @@
+.WeatherForecast {
+  text-align: center;
+}
+
+.WeatherForecast-icon {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.WeatherForecast-temps {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.WeatherForecast-day {
+  font-size: 16px;
+}
+
+.WeatherForecast-temps-max {
+  color: var(--bright-pink);
+}
+
+.WeatherForecast-temps-min {
+  color: var(--soft-pink);
+  margin-left: 5px;
+}

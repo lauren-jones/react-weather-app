@@ -91,7 +91,7 @@
   top: -34px;
 }
 
-.App .weather-info {
+.App .WeatherForecast {
   padding: 30px 0;
   border-bottom: 1px solid var(--background-color);
 }
